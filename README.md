@@ -18,12 +18,14 @@ I'm a passionate MERN stack developer dedicated to creating powerful and user-fr
 ### Most Commit Language: 
 
 ![streak](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fardin7864&theme=default&exclude=exclude)
+
+
 🚀 **Current Focus:**
 - Building awesome projects using the MERN stack.
 - Exploring the latest trends in web development.
 
 🌱 **Learning:**
-- Always expanding my knowledge, currently diving deep into [specific technology or concept].
+- Always expanding my knowledge, currently diving deep into Next.js , Redux, Mongoose.
 
 💬 **Ask me about:**
 - React.js, Node.js, Express.js, MongoDB, or anything related to the MERN stack.
