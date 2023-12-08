@@ -4,6 +4,8 @@
 
 I'm Fardin Hasan Neloy, a passionate MERN stack developer with a love for turning code into functional and visually appealing applications.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fardin%20Hasan&card_width=491)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Fardin%20Hasan&card_width=491" alt="GitHub Streak" /></a>
 🚀 **Current Focus:**
 - Building awesome projects using the MERN stack.
 - Exploring the latest trends in web development.
