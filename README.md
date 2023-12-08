@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 https://i.ibb.co/wdydydx/Fardin-Hasan-Neloy.png
-<img src = {`https://i.ibb.co/wdydydx/Fardin-Hasan-Neloy.png`}
+<img src = {`https://i.ibb.co/wdydydx/Fardin-Hasan-Neloy.png`}/>
 
 <!--
 **Fardin7864/Fardin7864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
