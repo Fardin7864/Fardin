@@ -43,6 +43,42 @@ I don't just code; I craft digital experiences that leave an impact. Fueled by p
 - Feel free to connect with me on [LinkedIn](www.linkedin.com/in/fardinhasan).
 
 
+## Coding Arsenal
+
+### 1. Blog Portal
+
+- **Description:**
+  - Developed 'Discover,' a MERN stack web application facilitating blog creation, management, and discovery.
+  - Leveraged React for the frontend, Express for the backend, and integrated third-party packages for enhanced features.
+  - Implemented user authentication, Wishlist functionality, and featured blogs.
+  - Utilized technologies including Firebase, Axios, Tailwind, and Framer Motion for a seamless user experience.
+  - Successfully applied responsive design, custom hooks, and bonus features like JWT authentication and toast messages.
+
+- **[Live Demo](https://blog-bloom-94414.web.app/) | [GitHub Repository](https://github.com/Fardin7864/e-portal.git)**
+
+### 2. Blood Donation Platform
+
+- **Features:**
+  - **Admin Dashboard:** Implemented role-based access control with an admin dashboard for comprehensive user management, donation request oversight, and content control.
+  - **User Authentication:** Ensured secure registration and login processes, incorporating JWT for data protection.
+  - **Responsive Design:** Prioritized a seamless user experience across all devices, including mobile and desktop.
+  - **Funding:** Integrated a funding page with Stripe payment functionality, allowing users to contribute securely.
+
+- **[Live Demo](https://blood-donation-c2b2f.web.app/) | [GitHub Repository](https://github.com/Fardin7864/blood-donation-project)**
+
+### 3. E-Sports Organizer
+
+- **Highlights:**
+  - **Event Types:** Anubis caters to diverse esports event types, ensuring a personalized and smooth experience.
+  - **Unique Design:** The platform boasts a distinctive and responsive design capturing the essence of gaming events.
+  - **Private Routes:** Ensured the safeguarding of sensitive information and authenticated users with private routes.
+  - **Local Storage:** Enhanced user experience by saving and retrieving preferences using local storage on the client.
+  - **Responsive Design:** Enjoy a seamlessly responsive layout that adapts to both desktop and mobile devices.
+  - **AOS Animation:** Smooth and captivating animations using the AOS package on the homepage.
+
+- **[Live Demo](https://esports-event.web.app/) | [GitHub Repository](https://github.com/Fardin7864/e-sports)**
+
+
 ## Contact Me
 
 You can contact me via email: [fardinhasan18@gmail.com](mailto:fardinhasan18@gmail.com)
@@ -59,18 +95,3 @@ Or click the button below to send me a message:
 
 Let's code something amazing together! 🚀
 
-
-<!--
-**Fardin7864/Fardin7864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
