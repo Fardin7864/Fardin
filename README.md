@@ -1,7 +1,22 @@
 ![Fardin Hasan Neloy](https://i.ibb.co/R6xcP9v/Fardin-Hasan-Neloy.png)
 
-I'm Fardin Hasan Neloy, a passionate MERN stack developer with a love for turning code into functional and visually appealing applications.
+# Hello, I'm Fardin Hasan 👋
+
+I'm a passionate MERN stack developer dedicated to creating powerful and user-friendly web applications. My focus is on writing clean, efficient code and delivering seamless digital experiences.
+
+## 🚀 Tech Stack
+
+- **Frontend:** React.js, Next.js, Redux, JavaScript(ES6+) , Tailwind CSS, Daisy UI, MUI
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, VS Code, npm/yarn
+
+### Profile Details : 
+
 ![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fardin7864&theme=default)
+
+### Most Commit Language: 
+
 ![streak](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fardin7864&theme=default&exclude=exclude)
 🚀 **Current Focus:**
 - Building awesome projects using the MERN stack.
