@@ -1,6 +1,6 @@
 ![Fardin Hasan Neloy](https://i.ibb.co/R6xcP9v/Fardin-Hasan-Neloy.png)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisy,mui,next,redux,mongodb,mongoose,express,git,npm,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mui,next,redux,mongodb,firebase,express,git,github,postman)](https://skillicons.dev)
 
 # Hello, I'm Fardin Hasan 👋
 
