@@ -1,6 +1,7 @@
 ![Fardin Hasan Neloy](https://i.ibb.co/R6xcP9v/Fardin-Hasan-Neloy.png)
 
 I'm Fardin Hasan Neloy, a passionate MERN stack developer with a love for turning code into functional and visually appealing applications.
+![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fardin7864&theme=default)
 ![streak](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fardin7864&theme=default&exclude=exclude)
 🚀 **Current Focus:**
 - Building awesome projects using the MERN stack.
