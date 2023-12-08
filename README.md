@@ -1,5 +1,7 @@
 ![Fardin Hasan Neloy](https://i.ibb.co/R6xcP9v/Fardin-Hasan-Neloy.png)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,next)](https://skillicons.dev)
+
 # Hello, I'm Fardin Hasan 👋
 
 I'm a passionate MERN stack developer dedicated to creating powerful and user-friendly web applications. My focus is on writing clean, efficient code and delivering seamless digital experiences. <b> I'm open to work and employment opportunities.</b>
