@@ -40,7 +40,12 @@ I don't just code; I craft digital experiences that leave an impact. Fueled by p
 - React.js, Node.js, Express.js, MongoDB, or anything related to the MERN stack.
 
 📫 **How to reach me:**
-- Feel free to connect with me on [LinkedIn](www.linkedin.com/in/fardinhasan).
+- Feel free to connect with me <a href="mailto:fardinhasan18@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail" alt="Contact Me">
+</a>
+<a href="https://www.linkedin.com/in/fardinhasan" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20with%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with Me on LinkedIn">
+</a>
 
 
 ## Coding Arsenal
