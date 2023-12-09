@@ -88,7 +88,7 @@ Or click the button below to send me a message:
 <a href="mailto:fardinhasan18@gmail.com">
   <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail" alt="Contact Me">
 </a>
-<a href="www.linkedin.com/in/fardinhasan" target="_blank">
+<a href="https://www.linkedin.com/in/fardinhasan" target="_blank">
   <img src="https://img.shields.io/badge/Connect%20with%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with Me on LinkedIn">
 </a>
 
