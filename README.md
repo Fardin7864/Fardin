@@ -89,7 +89,7 @@ I don't just code; I craft digital experiences that leave an impact. Fueled by p
 
 You can contact me via email: [fardinhasan18@gmail.com](mailto:fardinhasan18@gmail.com)
 
-Or click the button below to send me a message:
+Click the button below to send me a message:
 
 <a href="mailto:fardinhasan18@gmail.com">
   <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail" alt="Contact Me">
